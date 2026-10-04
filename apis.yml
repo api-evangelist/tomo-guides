@@ -51,7 +51,7 @@ tags:
 - Company
 - Mortgage
 - Fintech
-- Real-Estate
+- Real Estate
 - Home Buying
 - Lending
 tags_raw:
@@ -61,6 +61,7 @@ tags_raw:
 - Real Estate
 - Home Buying
 - Lending
+- Real-Estate
 apis: []
 common:
 - type: Website
